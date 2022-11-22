@@ -1,4 +1,4 @@
-# DISCLAIMER : IT IS NOT MY REPOSITORY IT IS OF [@nboughton]([url](https://github.com/nboughton/dotfiles))
+# DISCLAIMER : IT IS NOT MY REPOSITORY IT IS OF ([@nboughton](https://github.com/nboughton/dotfiles))
 
 
 
