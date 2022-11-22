@@ -1,5 +1,5 @@
 # DISCLAIMER : IT IS NOT MY REPOSITORY IT IS OF ([@nboughton](https://github.com/nboughton/dotfiles))
-##Main sway folders - SWAY , SWAYLOCK , WOFI , WAYBAR
+## Main sway folders - SWAY , SWAYLOCK , WOFI , WAYBAR
 
 
 # Notes:
